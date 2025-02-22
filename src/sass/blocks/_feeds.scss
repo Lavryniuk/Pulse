@@ -1,0 +1,41 @@
+.feed {
+    padding-bottom: 50px;
+        
+    &__comment {
+        margin-top: 60px;
+        display: flex;
+
+        img{
+            width: 170px;
+            height: 170px;
+        }
+    }
+
+    &__text {
+        margin-left: 60px;
+        padding-right: 60px;
+    }
+      
+    &__name {
+        color: #0d0d0d;
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    &__count {
+        color: #646464;
+        font-size: 14px;
+        font-weight: 500;
+
+    }
+
+    &__descr {
+        font-size: 16px;
+        font-weight: 300;
+
+    }
+        
+        
+            
+    
+}
